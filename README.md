@@ -20,6 +20,8 @@ To RUN ABOVE:
 1) If CORS issue run http-server in terminal
 2) Then access the file with the http-server address (not file:// but like 127.0.0.1:8080/)
 3) ensure all files are in the same directory :) 
+4) If you don't see an address select 'destroy wallet' and it will generate a new one
+5) send 0.01 SOL to the address to unlock the report 
 
 
 
