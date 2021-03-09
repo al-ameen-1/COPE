@@ -24,5 +24,11 @@ To RUN ABOVE:
 5) send 0.01 SOL to the address to unlock the report 
 
 
+NEXT
+Integration of Sollet Wallet Flow
+Integration of Twitter Verification --> TO Establish Solana Wallet and Twitter Profile connection for curated report access
+
+
+
 
 
