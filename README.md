@@ -15,4 +15,12 @@ Apply to become part of the COPE Index. Successful applicants will be among some
 Phase 1
 COPE is a project that has two phases. Phase 1 of COPE involves seeking to ascertain and evaluate trader weaknesses and failings retrospectively based on trader calls made about crypto markets and provide reporting on this for self analysis. Top Call Makers are evaluated based on their call accuracy which along with other parameters results in a COPE score given to them. The top 100 Call Makers are embraced within a COPE index ranking them by their COPE score. Once a consistent list of the top 100 has been generated with the odd 'rebalancing' kicking out, introducing new Top Market Readers into the index it provides a narrative for a new type of investment product based on top trader calls as measured using a reliable and accurate mechanism, which leads to phase 2.
 
+To RUN ABOVE:
+
+1) If CORS issue run http-server in terminal
+2) Then access the file with the http-server address (not file:// but like 127.0.0.1:8080/)
+3) ensure all files are in the same directory :) 
+
+
+
 
